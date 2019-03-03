@@ -1,0 +1,6 @@
+D:\Practice\MVC Practice Programs\Operators\Operators\bin\Debug\Operators.exe.config
+D:\Practice\MVC Practice Programs\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+D:\Practice\MVC Practice Programs\Operators\Operators\bin\Debug\Operators.exe
+D:\Practice\MVC Practice Programs\Operators\Operators\bin\Debug\Operators.pdb
+D:\Practice\MVC Practice Programs\Operators\Operators\obj\Debug\Operators.exe
+D:\Practice\MVC Practice Programs\Operators\Operators\obj\Debug\Operators.pdb
